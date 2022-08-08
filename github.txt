@@ -1,0 +1,8 @@
+git config --local user.name "Seu nome aqui"
+git config --local user.email "seu@email.aqui
+
+git status (mostra status se tem arquivos novos)
+
+git add . (adiciona arquivos para o github)
+
+git commit -m "mensagem de confirmação" (envia arquivos para o github)
