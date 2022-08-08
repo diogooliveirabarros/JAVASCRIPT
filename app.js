@@ -1,4 +1,5 @@
-numero1 = null;
-numero2 = undefined;
+const nome = "Diogo";
+const idade = 28;
+const nascimento = "Garanhuns-PE";
 
-console.log(typeof numero1, numero2);
+console.log (`Meu nome é ${nome}, tenho ${idade} anos de idade, e nasci em ${nascimento}`)
