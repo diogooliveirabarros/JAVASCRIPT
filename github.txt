@@ -4,6 +4,8 @@ git config --local user.email "seu@email.aqui
 git config user.name (visualiza o usuário)
 git config user.email (visualiza email)
 
+git init (cria um repositório)
+
 git status (mostra status se tem arquivos novos)
 
 git add . (adiciona arquivos para o github)
@@ -15,6 +17,10 @@ git log --oneline (exibe alterações feitas com menos detalhes)
 git log -p (exibe alterações feitas com mais detalhes)
 
 clear (limpar terminal)
+
+-PARA O GITHUB IGNORAR ARQUIVO-
+Criar arquivo com o nome .gitignore, e escrever nele o nome do arquivo que deseja ignorar
+
 
 
 
