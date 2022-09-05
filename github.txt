@@ -22,6 +22,6 @@ clear (limpar terminal)
 Criar arquivo com o nome .gitignore, e escrever nele o nome do arquivo que deseja ignorar
 
 
-
+testeeeeeeee
 
 
