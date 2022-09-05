@@ -1,8 +1,21 @@
 git config --local user.name "Seu nome aqui"
 git config --local user.email "seu@email.aqui
 
+git config user.name (visualiza o usuário)
+git config user.email (visualiza email)
+
 git status (mostra status se tem arquivos novos)
 
 git add . (adiciona arquivos para o github)
 
 git commit -m "mensagem de confirmação" (envia arquivos para o github)
+
+git log (exibe alterações feitas)
+git log --oneline (exibe alterações feitas com menos detalhes)
+git log -p (exibe alterações feitas com mais detalhes)
+
+clear (limpar terminal)
+
+
+
+
